@@ -1,3 +1,7 @@
 .idea/
 out/
 *.iml
+mvnw
+mvnw.cmd
+.DS_Store
+HELP.md
